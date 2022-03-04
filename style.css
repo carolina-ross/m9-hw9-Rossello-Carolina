@@ -132,9 +132,19 @@ footer {
   color: var(--off-white);
 }
 
-@media screen and (min-width: 600px) {
-	nav a {
-		float: none;
-		width: 100%;	
+@media only screen and (max-device-width: 800px) {
+nav a {
+  float: none;
+  display: inline;
+  width: 100%;	
+	}
+	
+main article { 
+  padding: 5px; 
 	}
 }
+
+
+
+
+
