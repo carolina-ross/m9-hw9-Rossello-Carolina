@@ -142,11 +142,11 @@ header a {
 main article { 
   padding: 5px; 
   margin-bottom: 5px;
-  margin-top: 5px;
 }
 	
-.hero {
+section.hero {
   width: auto;
+  margin-bottom: 5px;
 }
 	
 section.hero > .call-to-action {
