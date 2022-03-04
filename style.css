@@ -149,7 +149,7 @@ main article {
   width: auto;
 }
 	
-.hero > .call-to-action {
+section.hero > .call-to-action {
   font-size: 24px;
 }
 	
