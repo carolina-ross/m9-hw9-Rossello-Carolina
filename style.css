@@ -133,14 +133,21 @@ footer {
 }
 
 @media only screen and (max-device-width: 800px) {
-nav a {
-  float: none;
+header a {
   display: inline;
-  width: 100%;	
+  float: none;
 	}
 	
 main article { 
   padding: 5px; 
+	}
+	
+.hero {
+  width: auto;
+	}
+	
+img {
+  align-content: center;
 	}
 }
 
