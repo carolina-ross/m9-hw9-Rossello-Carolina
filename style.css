@@ -136,19 +136,22 @@ footer {
 header a {
   display: inline;
   float: none;
-	}
+}
 	
 main article { 
   padding: 5px; 
-	}
+  margin-bottom: 5px;
+}
 	
 .hero {
   width: auto;
-	}
+}
 	
 img {
-  align-content: center;
-	}
+  display: block;
+  margin: 0 auto;
+}
+	
 }
 
 
