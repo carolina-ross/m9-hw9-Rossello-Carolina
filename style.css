@@ -135,9 +135,6 @@ footer {
 @media only screen and (max-device-width: 800px) {
 nav {
   display: block;
-}
-	
-nav a {
   text-align: center;
 }
 	
